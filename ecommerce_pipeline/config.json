@@ -1,0 +1,9 @@
+{
+    "source_folder": "./source_data/",
+    "data_lake_folder": "./data_lake/raw/",
+    "db_host": "localhost",
+    "db_port": "5432",
+    "db_name": "ecommerce_dw",
+    "db_user": "postgres",
+    "db_pass": "asrb1234"
+}
